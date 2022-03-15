@@ -1,5 +1,5 @@
 image: pasqualeleone/ent-project-template:0.0.1-SNAPSHOT
-dbms: none
+dbms: postgress
 ingressPath: "/entando-template-api"
 healthCheckPath: "/actuator/health"
 roles:
